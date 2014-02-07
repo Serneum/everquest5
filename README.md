@@ -4,7 +4,7 @@ everquest5
 A text-based game using Java Swing for basic UI.
 
 The first game I ever wrote. The name was just something that came out of the blue because there was nothing else that I
-could think of at the time. It's a simple game based on a style similar to Legend of the Green Dragon, and therfore also
+could think of at the time. It's a simple game based on a style similar to Legend of the Green Dragon, and therefore also
 Legend of the Red Dragon.
 
 Save Files
