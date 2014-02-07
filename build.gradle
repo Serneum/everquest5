@@ -1,0 +1,7 @@
+apply plugin: 'java'
+
+jar {
+  manifest {
+    attributes("Manifest-Version": "1.0", "Main-Class": "com.serneum.rpg.core.StartButton")
+  }
+}

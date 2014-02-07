@@ -1,0 +1,72 @@
+Syntax for Specials:
+First letter of class followed by level
+Special Name
+Bonus Damage
+Bonus Accuracy
+AP Cost
+
+Attack
+0
+0
+0
+
+Smite
+10
+5
+6
+
+Blessed Strike
+10
+3
+8
+
+
+Holy Cross
+21
+14
+14
+
+Power Attack
+15
+-2
+6
+
+Cleave
+12
+5
+8
+
+Eviscerate
+30
+10
+10
+
+Frozen Strike
+6
+10
+4
+
+Conjure Lightning
+10
+20
+8
+
+Amplify
+15
+30
+10
+
+Double Strike
+15
+5
+10
+
+Whirling Strike
+20
+10
+12
+
+Flurry of Blows
+40
+20
+20

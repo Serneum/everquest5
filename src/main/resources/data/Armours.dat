@@ -1,0 +1,46 @@
+Syntax for Armours*
+ID#
+Armour Name
+Armour Class Bonus
+
+*Currently both Armour and Shields are listed in this same document
+
+ID0
+Nekkid
+0
+
+ID1
+Cloth
+1
+
+ID2
+Leather
+2
+
+ID3
+Hide
+3
+
+ID4
+Chainmail
+6
+
+ID5
+Scale
+7
+
+ID6
+Plate
+8
+
+ID7
+Arm
+0
+
+ID8
+Light
+1
+
+ID9
+Heavy
+2

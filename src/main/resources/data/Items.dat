@@ -1,0 +1,16 @@
+Syntax for Items
+
+ID#
+Item Name
+Specific Item effects on use, if use outside of battle
+differs from inside battle, make note. Remember that all
+of these must be scripted by hand, so this document is
+for refference only.
+
+ID1
+Potion
+Heals player HP by a random ammount from endMod*3 to endMod*9.
+
+ID2
+AP Potion
+Heals player AP by a random ammount from intMod*2 + endMod to intMod*6 + endMod*3.

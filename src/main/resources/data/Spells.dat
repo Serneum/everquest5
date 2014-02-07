@@ -1,0 +1,99 @@
+Syntax for Spells:
+First letter of class followed by level
+Spell Name
+Min Damage
+Max Damage
+Accuracy
+AP Cost
+If spell does something different, note afterwards
+
+Heal
+6
+14
+0
+3
+Targets player, bonus is WisMod + EndMod
+
+Bless
+7
+0
+21
+7
+First number is bonus damage, third is AP cost. All bonuses are for the next turn only
+
+Shield
+10
+0
+0
+10
+First number is Damage reduction bonus, duration is IntMod/2 + WisMod
+
+Divine Flash
+10
+20
+15
+After monster's accuracy is reduced by WisMod for the rest of the battle
+
+Endure Pain
+4
+0
+0
+5
+First number is Damage reduction bonus, an extra StrengthMod/2 + EndMod is added to that. Duration is EndMod
+
+Lion's Comfort
+6
+14
+0
+3
+Targets Player, heals by ammount listed + WisMod + EndMod
+
+Tiger Stance
+4
+4
+4
+10
+Grants damage and accuracy bonus for StrengthMod turns equal to the listed numbers plus StrengthMod
+
+Shock
+6
+14
+10
+4
+
+Blades of Wind
+10
+20
+10
+8
+
+Maelstrom
+15
+25
+15
+12
+
+Pure Blast
+25
+35
+20
+20
+Nature's Cure
+3
+14
+0
+3
+Targets player, heals by ammount listed + WisMod + EndMod
+
+Flame Strike
+6
+14
+6
+12
+Deals listed Min + Max with accuracy being bonus accuracy instead, plus normal player damage + StrengthMod + IntMod, with normal player accuracy as base
+
+Grasping Vines
+10
+20
+10
+10
