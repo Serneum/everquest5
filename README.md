@@ -1,4 +1,4 @@
-everquest5
+Overworld
 ==========
 
 A text-based game using Java Swing for basic UI.
