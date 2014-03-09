@@ -1,6 +1,6 @@
-build/**/*
+java/build/**/*
 .class
 .project
 .classpath
-.gradle
+java/.gradle
 /bin
