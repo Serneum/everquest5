@@ -74,7 +74,7 @@ function countAliveNeighbors(map, x, y) {
 
     for (var i = x - 1; i <= x + 1; i++) {
         for (var j = y - 1; j <= y + 1; j++) {
-            if (i == x || j == y) {
+            if (i == x && j == y) {
                 continue;
             }
             else if (i < 0 || j < 0 || i >= COLS || j >= ROWS) {
